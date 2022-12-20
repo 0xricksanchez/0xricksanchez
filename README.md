@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on improving Fuzzing for the massed @[Code Intelligence](https://github.com/CodeIntelligenceTesting)<br>
+🔭 I’m currently working on improving Fuzzing for the masses @[Code Intelligence](https://github.com/CodeIntelligenceTesting)<br>
 🌱 I’m currently learning how [tame the Linux Kernel](https://github.com/0xricksanchez/like-dbg) and find ways to break it<br>
-👯 Happy to collab on any cool fuzzing/exploitation idea!<br>
+👯 Happy to collab on any cool fuzzing/exploitation ideas!<br>
 📚 Always trying to make time to [blog about my infosec experiences](https://0x434b.dev/)
 
 
