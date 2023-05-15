@@ -2,8 +2,8 @@
 🔭 I’m working on improving Fuzzing for the masses @[Code Intelligence](https://github.com/CodeIntelligenceTesting)<br>
 🌱 My self-improvement goal for 2023 is to further learn how [to tame the Linux Kernel](https://github.com/0xricksanchez/like-dbg) and find ways to break it<br>
 ⚙️ I'm trying to stay on [top of the fuzzing game](https://github.com/0xricksanchez/paper_collection)  
-💡 I'd love to finish an in-depth [educational fuzzer next](https://github.com/0xricksanchez/hantu). 
-👯 Happy to collab on any cool fuzzing/exploitation ideas!<br>. 
+💡 I'd love to finish an in-depth [educational fuzzer next](https://github.com/0xricksanchez/hantu)  
+👯 Happy to collab on any cool fuzzing/exploitation ideas!<br> 
 📚 Always trying to make time to [blog about my infosec experiences](https://0x434b.dev/)
 
 
