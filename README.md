@@ -11,7 +11,7 @@
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/0xricksanchez)<br>
 [![BSKY](https://img.shields.io/badge/Bluesky-%231DA1F2.svg?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/434b.bsky.social)<br>
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://infosec.exchange/@434b)<br>
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:admin@434b.dev)<br>
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:mail@434b.dev)<br>
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
